@@ -1,0 +1,3 @@
+Incremental, recursive algorithm for filling a concept lattice. Nodes are shown with intents (concept attributes) on top in English letters, and extents (concept contents) on bottom in Greek letters. 
+
+The original publication for this algorithm is here: http://www.inf.upol.cz/trnecka/fka/addintent.pdf.
